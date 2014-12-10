@@ -3,7 +3,7 @@ echo $DIR
 
 function link {
     cd "$DIR/.."
-    ln -s simconfig/$1 $1
+    ln -s TF2-Config/$1 $1
 }
 
 link demoman.cfg
@@ -15,3 +15,5 @@ link scout.cfg
 link sniper.cfg
 link soldier.cfg
 link spy.cfg
+
+link autoexec.cfg
