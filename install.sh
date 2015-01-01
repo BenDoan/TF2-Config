@@ -17,3 +17,11 @@ link soldier.cfg
 link spy.cfg
 
 link autoexec.cfg
+
+link binds.cfg
+link fpsconfig2.cfg
+link practice.cfg
+link shittalk.cfg
+link vars.cfg
+link aliases.cfg
+link crosshairs.cfg
